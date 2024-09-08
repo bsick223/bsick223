@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently working on finding an MVP to launch a product and studying for technical internships.<br>I'm looking to collaborate on projects<br>I'm looking for help with creating nice looking websites.<br>I'm currently learning about AI, ML, Web design, Python and other frameworks.<br>Ask me about the project that I am working on.<br>Fun fact, I'm a saxophonist and have published music.
+- I'm currently working on finding an MVP to launch a product and studying for technical internships.<br>- I'm looking to collaborate on projects<br>- I'm looking for help with creating nice looking websites.<br>- I'm currently learning about AI, ML, Web design, Python and other frameworks.<br>- Ask me about the project that I am working on.<br>- Fun fact, I'm a saxophonist and have published music.
 
 
 ## 🌐 Socials:
